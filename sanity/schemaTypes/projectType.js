@@ -21,6 +21,13 @@ export const projectType = defineType({
       },
     }),
     defineField({
+      name: "link",
+      description:
+        "This field is a link, like to a github repo",
+      title: "Link",
+      type: "url",
+    }),
+    defineField({
       name: "description",
       title: "Description",
       type: "text",
