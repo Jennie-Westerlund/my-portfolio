@@ -7,7 +7,7 @@ export default defineConfig({
   title: "My Portfolio",
 
   basePath: "/studio", // `basePath` must match the route of your Studio
-  projectId: "xxxxxxx", // Replace with your actual Sanity project ID
+  projectId: "tiw8s0x1", // Replace with your actual Sanity project ID
   dataset: "production", 
 
 // structureTool structures your content in the studio
